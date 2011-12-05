@@ -5,7 +5,7 @@ using System.Text;
 
 namespace LifeObjects
 {
-    public class Class1
+    public class Wich
     {
     }
 }
